@@ -1,6 +1,6 @@
 Summary
 =======
-This project provides a simply UI to use for testing and demonstration 
+This project provides a simple UI to use for testing and demonstration 
 purposes along with [SoapUI](https://www.soapui.org).  The API provides simple
 math functions for addition, subtraction, multiplication and division of a list
 of terms.
